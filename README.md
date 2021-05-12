@@ -2,7 +2,7 @@
 
 An app for tracking reviews of specific dishes at various restaurants.
 
-Made to familiarize myself with TDD and Agile methods.
+Making to familiarize myself with TDD and Agile methods.
 
 Demo: [Here](https://opinionate-tdd.netlify.app/)
 
