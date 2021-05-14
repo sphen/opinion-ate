@@ -1,3 +1,4 @@
-const App = () => <div>Hello, world.</div>;
+import RestaurantScreen from './components/RestaurantScreen';
 
+const App = () => <RestaurantScreen />;
 export default App;
